@@ -1,0 +1,13 @@
+{
+   "Services":[
+      {
+  	"name":"msiserver",
+  	"type":"ECM"
+	
+      },
+      {
+  	"name":"Spooler",
+  	"type":"ECM"
+      }
+   ]
+}

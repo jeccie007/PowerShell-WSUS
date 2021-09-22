@@ -1,0 +1,15 @@
+{
+   "Servers":[
+      {
+  	"name":"172.21.32.104",
+  	"type":"ECM",
+	"cluster":1
+	
+      },
+      {
+  	"name":"172.21.32.103",
+  	"type":"ECM",
+	"cluster":1
+      }
+   ]
+}
